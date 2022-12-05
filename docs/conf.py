@@ -167,7 +167,7 @@ myst_substitutions = {
    "napari_version": version_string,
    "python_version": {python_version},
    "python_version_code": f"`python={python_version}`",
-   "conda_env_python_version": f"```sh\nconda create -y -n napari-env -c conda-forge python={python_version}\n",
+   "conda_env_python_version": f"```sh\nconda create -y -n napari-env -c conda-forge python={python_version}\nconda activate napari-env\n```",
 }
 
 nb_output_stderr = 'show'
