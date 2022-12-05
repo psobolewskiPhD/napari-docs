@@ -68,8 +68,6 @@ napari into a clean virtual environment using an environment manager like
 This should be set up *before* you install napari. For example, with `conda`:
 
 {{ conda_env_python_version }}
-conda activate napari-env
-```
 ````
 
 Choose one of the options below to install napari as a Python package.
