@@ -1,7 +1,7 @@
 sphinx<5
 sphinx-autobuild
 sphinx-tabs
-sphinx-tags
+sphinx-tags==0.2.1
 sphinx-design
 sphinx-external-toc
 sphinx-favicon>=1.0
