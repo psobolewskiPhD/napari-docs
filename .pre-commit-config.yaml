@@ -13,3 +13,4 @@ repos:
         -   mdformat-gfm
         -   mdformat-black
         -   mdformat-myst
+        -   mdformat-frontmatter
