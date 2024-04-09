@@ -47,7 +47,7 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install "napari/[all]"
+          python -m pip install "napari/[dev, all]"
         env:
           PIP_CONSTRAINT: ${{ github.workspace }}/napari/resources/constraints/constraints_py3.10_docs.txt
 
