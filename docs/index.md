@@ -43,7 +43,7 @@ theme:
       url: https://www.napari-hub.org
 ---
 
-# napari: a fast, interactive viewer for multi-dimensional images in Python
+# napari: test
 
 ```{raw} html
 <figure>
@@ -121,4 +121,3 @@ napari is extensible! Find plugins, or develop your own!
 :::
 
 ::::
-
