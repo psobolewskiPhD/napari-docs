@@ -43,7 +43,7 @@ theme:
       url: https://www.napari-hub.org
 ---
 
-# napari: test
+# napari: test new
 
 ```{raw} html
 <figure>
