@@ -71,7 +71,8 @@ dask==2025.9.0
     # via
     #   napari (pyproject.toml)
     #   distributed
-debugpy==1.8.16
+#debugpy==1.8.16
+debugpy==1.8.17
     # via ipykernel
 decorator==5.2.1
     # via ipython
