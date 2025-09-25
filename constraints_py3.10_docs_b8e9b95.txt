@@ -114,7 +114,8 @@ flexcache==0.3
     # via pint
 flexparser==0.4
     # via pint
-fonttools==4.59.2
+#fonttools==4.59.2
+fonttools==4.60.0
     # via matplotlib
 freetype-py==2.5.1
     # via vispy
@@ -137,7 +138,8 @@ heapdict==1.0.1
     # via cachey
 hsluv==5.0.4
     # via vispy
-hypothesis==6.138.16
+#hypothesis==6.138.16
+hypothesis==6.140.0
     # via napari (pyproject.toml)
 idna==3.10
     # via
